@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Revista Clínica Veterinária",
+    "slug": "Clinicavet",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#30B2BA"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.editoraguara.revistaclinicaveterinaria.rcv"
+    }
+  }
+}
