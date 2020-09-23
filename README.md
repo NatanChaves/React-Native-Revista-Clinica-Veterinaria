@@ -18,6 +18,7 @@ App para visualização de pdfs diretamente da nuvem e download no aparelho.
 - [x] Multilinguagem: identifica automaticamente o idioma do aparelho e usa como idioma padrão do aplicativo
 - [x] React navigation: Drawer Menu e Stack, simultaneamente
 - [x] Activity indicator para melhorar a experiência
+- [x] Responsividade, adaptativo a tablets
 
 ### Pré-requisitos
 
