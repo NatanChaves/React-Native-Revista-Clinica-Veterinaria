@@ -34,10 +34,10 @@ O backend foi feito em C#, e as chamadas às apis foram tiradas do projeto.
 ### Algumas imagens do projeto
 
 <h1 align="center">
-  <img alt="tela de login" title="#Login" src="./assets/login.png" />
+  <img alt="tela de login" title="#Login" src="./assets/login.png"  />
 </h1>
 <h1 align="center">
-  <img alt="tela inicial" title="#Home" src="./assets/Home.png" />
+  <img alt="tela inicial" title="#Home" src="./assets/home.png" />
 </h1>
 <h1 align="center">
   <img alt="tela inicial" title="#Menu" src="./assets/Menu.png" />
